@@ -32,8 +32,14 @@
         android:textColor="@color/black"
         android:textSize="30dp" />
 
-
-
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hieeee"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif-condensed-light"
+    ></Button>
 
     <ImageView
         android:id="@+id/image"
